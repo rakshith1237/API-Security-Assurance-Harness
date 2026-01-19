@@ -38,3 +38,6 @@ This repo acts as an **audit-friendly case file**: commands, artifacts, and note
 ## Notes / constraints
 - GitHub may display HTML reports as raw source. Open HTML reports locally in a browser, or publish them separately if needed.
 - Terminal hygiene: avoid pasting Markdown-style links into commands. Use plain filenames and plain URLs.
+
+## Live Report (GitHub Pages)
+- KICS report: https://rakshith1237.github.io/API-Security-Assurance-Harness/kics/
